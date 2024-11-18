@@ -1,11 +1,3 @@
 # Welcome to Axinom!
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Axinom develops cutting-edge, open-source tools and templates that streamline content management, DRM, synchronization, and secure data delivery for the media, entertainment, and aerospace industries. Central to our ecosystem is Axinom Mosaic, a modular service platform built with APIs and microservices that enables developers to assemble scalable, customized solutions for complex digital workflows. Here on GitHub, we provide robust, developer-friendly resources—including templates and tools—that support content streaming, in-flight entertainment, and secure, end-to-end digital operations. Our commitment is to empower developers with the flexibility and control needed to deliver high-performance digital experiences.
